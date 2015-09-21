@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Trabalho</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="origem">
+        <item>Escolha a origem</item>
+        <item>Brasiia</item>
+        <item>Fortaleza</item>
+        <item>Rio</item>
+        <item>São Paulo</item>
+    </string-array>
+
+    <string-array name="destino">
+        <item>Escolha o destino</item>
+        <item>Fortaleza</item>
+        <item>Rio</item>
+        <item>Brasiia</item>
+        <item>São Paulo</item>
+    </string-array>
+
+    <string name="txt_lista_passagens">Não tem nada</string>
+    <string name="title_activity_segunda_tela">SegundaTela</string>
+    <string name="title_activity_detalhe">DetalheActivity</string>
+    <string name="horario_voo">Horário</string>
+    <string name="origem_voo">Origem:</string>
+    <string name="destino_voo">Destino:</string>
+</resources>
